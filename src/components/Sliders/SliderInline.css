@@ -1,0 +1,18 @@
+.SliderInline{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    padding:20px;
+}
+.leftarrow{
+    font-size: 20px;
+}
+
+.leftarrow{
+    font-size: 20px;
+}
+.rightarrow{
+    font-size: 20px;
+
+}
