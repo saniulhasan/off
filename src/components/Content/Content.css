@@ -1,0 +1,26 @@
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image {
+  width: 600px;
+  height: 400px;
+  display: block;
+}
+
+.content {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex; /* Display content in a row */
+  align-items: center; /* Center content vertically */
+  color: white; /* Set text color to white */
+}
+
+.quote-icon {
+  color: white; /* Set icon color to white */
+  font-size: 24px; /* Adjust icon size as needed */
+  margin-right: 5px; /* Add margin between icon and text */
+}
